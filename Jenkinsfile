@@ -9,7 +9,7 @@ pipeline {
  }
 post {
  success {
- archiveArtifacts artifacts: 'gameoflife-web/*.jar', fingerprint:
+ archiveArtifacts artifacts: 'gameoflife-web/target/gameoflife.war', fingerprint:
 true
  }
  }
