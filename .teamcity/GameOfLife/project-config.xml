@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="0dfc3a46-33ec-4c16-aa3e-f5a5a2f3c792" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
+  <name>Game Of Life</name>
+  <parameters />
+  <project-extensions>
+    <extension id="PROJECT_EXT_4" type="versionedSettings">
+      <parameters>
+        <param name="buildSettings" value="ALWAYS_USE_CURRENT" />
+        <param name="enabled" value="true" />
+        <param name="rootId" value="GameOfLife_HttpsGithubComAgarwalsheetal19gameOfLifeRefsHeadsMaster" />
+        <param name="showChanges" value="false" />
+      </parameters>
+    </extension>
+  </project-extensions>
+  <cleanup />
+</project>
+

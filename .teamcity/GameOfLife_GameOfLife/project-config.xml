@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" parent-id="GameOfLife" uuid="f0e77195-b906-4408-a0d8-09c8a3ca420c" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
+  <name>Game Of Life</name>
+  <parameters />
+  <cleanup />
+</project>
+
